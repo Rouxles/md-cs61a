@@ -92,7 +92,7 @@ Say I hand you a new `mystery_bear2`, telling you that it's the right type of ob
 
 ```python
 >>> getName(mystery_bear2)
-William Shenary
+Richard Shenary
 ```
 
 Did you need to know that the bear was a dictionary? No! Heck, I could've given you an encrypted version of the bear and told you that you had a set of getter methods to use on it and the approach would remain the same. Once we've implemented an abstraction, we don't need to worry about how it works. We simply need to be able to access its elements, which is why we create these abstractions to begin with.
