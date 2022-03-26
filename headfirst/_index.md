@@ -6,4 +6,4 @@ chapter = true
 
 # Head First into Python
 
-Now that we've established the basics and gotten ourselved acquainted with Python, it's time to get into the crux of programming and learn how to use some of the primary features of Python and, really, any language.
+Now that we've established the basics and gotten ourselves acquainted with Python, it's time to get into the crux of programming and learn how to use some of the primary features of Python and, really, any language.
