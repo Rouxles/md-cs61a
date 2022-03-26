@@ -1,7 +1,7 @@
 ---
 title: "Inheritance"
 weight: 3
-draft: true
+draft: false
 authors: ["Antonio Kam"]
 ---
 # Inheritance
