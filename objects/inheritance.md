@@ -63,9 +63,7 @@ As a result of that, we get the following diagram (in this case, the `__init__` 
 
 ![](https://i.imgur.com/qBP8sJP.png)
 
-{{<hint info>}}
-When looking for `self.default_food[:]`, `default_food` from the `Cat` class is taken, because the created instance first looks to see if there is a `default_food` already located in the instance (it doesn't), then looks to where the arrow is pointing, which is the `Cat` class, then looks for `default_food`, which is then found.
-{{</hint>}}
+> When looking for `self.default_food[:]`, `default_food` from the `Cat` class is taken, because the created instance first looks to see if there is a `default_food` already located in the instance (it doesn't), then looks to where the arrow is pointing, which is the `Cat` class, then looks for `default_food`, which is then found.
 
 ---
 
